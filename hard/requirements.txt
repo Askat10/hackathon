@@ -1,0 +1,5 @@
+requests
+pytelegrambotapi
+python-decouple
+beautifulsoup4
+datetime
